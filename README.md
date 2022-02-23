@@ -30,7 +30,7 @@ and push your changes to github.
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
 > Why not all or combine? But: game>read>friend>movie- Micha
 ## How would your friends describe you?
-> good sport maybe, havent asked - Micha
+> good sport maybe, havent asked- Micha
 ## What is the best gift you have been given?
 > My son - Micha
 ## What is the worst gift you have received?
@@ -42,4 +42,4 @@ and push your changes to github.
 ## Is your glass half full or half empty?
 >life: half full, beer: half empty - Micha
 ## If you had a warning label, what would yours say?
-> Caution hot ^^ or maybe more realistic "parental advisory explicit content" - Micha
+> "Caution hot" ^^ or maybe more realistic "parental advisory explicit content" - Micha
