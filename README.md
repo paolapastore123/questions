@@ -18,6 +18,9 @@ and push your changes to github.
 *Disrespect and lying*
 
 ## Who is your hero?
+
+*My parents.*
+
 ## If you could live anywhere, where would it be?
 ## What did you want to be when you were small?
 ## Would you rather ride a bike, ride a horse, or drive a car?
