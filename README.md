@@ -30,6 +30,9 @@ and push your changes to github.
 *President*
 
 ## Would you rather ride a bike, ride a horse, or drive a car?
+
+*Drive a car*
+
 ## what is your favorite dish? (list the main ingredients)
 ## What is your favorite color?
 ## What is your fav. videogame?
