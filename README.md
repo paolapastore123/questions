@@ -1,4 +1,5 @@
-Clone this repo, answer the following questions (add your name to the end of each answer) \
+Clone this repo, answer the following questions \
+add your name to the end of each answer \
 (eg. my fav holiday destination is Egypt - Paola)\
 and push your changes to github.
 
