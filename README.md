@@ -78,3 +78,5 @@ and push your changes to github.
 *Both of them*
 
 ## If you had a warning label, what would yours say?
+
+*Do not think everyone is like you*
