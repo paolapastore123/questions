@@ -1,4 +1,3 @@
-
 # Answers - Thomas
 
 My favourite holiday destination is spain. - Thomas
