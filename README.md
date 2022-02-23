@@ -25,8 +25,8 @@ Salsa del pomodoro *(garlick, olive oil, tomatoes, basilicum)*   __Igor__
 Green  __Igor__
 ## What is your fav. videogame?
 Atari Frogger  __Igor__
-## Does it bother you to be confronted with unexpected situations?__Igor__
-Not at all, this is a challenge ;-)  
+## Does it bother you to be confronted with unexpected situations?
+Not at all, this is a challenge ;-)  __Igor__
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
 Sleep if i can choose :-)  __Igor__
 ## How would your friends describe you?
