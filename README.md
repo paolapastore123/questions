@@ -12,7 +12,7 @@ flexible, challenging, boundaried
 ## What really makes you angry?
 queue pushers, general rudeness 
 ## Who is your hero?
-tbc...
+tbd...
 ## If you could live anywhere, where would it be?
 somewhere hotter
 ## What did you want to be when you were small?
