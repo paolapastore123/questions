@@ -38,6 +38,9 @@ and push your changes to github.
 *All of them*
 
 ## What is your favorite color?
+
+*I like rainbow.*
+
 ## What is your fav. videogame?
 ## Does it bother you to be confronted with unexpected situations?
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
