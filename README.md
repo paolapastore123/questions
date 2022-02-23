@@ -46,6 +46,9 @@ and push your changes to github.
 *GTA Vice City*
 
 ## Does it bother you to be confronted with unexpected situations?
+
+*It depends on the situation but generally yes*
+
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
 ## How would your friends describe you?
 ## What is the best gift you have been given?
