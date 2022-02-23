@@ -54,6 +54,9 @@ and push your changes to github.
 *Watch a movie or visit a friend*
 
 ## How would your friends describe you?
+
+*Warm and loyal* 
+
 ## What is the best gift you have been given?
 ## What is the worst gift you have received?
 ## If you were a super-hero, what powers would you have?
