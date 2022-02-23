@@ -6,83 +6,123 @@ and push your changes to github.
 # Questions
 
 
-## What is your favorite holiday destination?
-My favorite holiday destination is Uyuni Salt Flat - Thanh
+## What is your favorite holiday destination? 
+Korcula Island Croatia __Igor__
 ## What should your dreamjob be like?
-My dreamjob would be Moderator - Thanh
+Visual Designer  __Igor__
 ## What really makes you angry?
-When the kids don't listen to me - Thanh
+Humans stupidity  __Igor__
 ## Who is your hero?
-Ho Chi Minh - Thanh
+Someone who can make me better  __Igor__
 ## If you could live anywhere, where would it be?
-I would like to live in Autstralia - Thanh
+Berlin Germany  __Igor__
 ## What did you want to be when you were small?
-When I was small - I would like to be a teacher - Thanh
+Pilot  __Igor__
 ## Would you rather ride a bike, ride a horse, or drive a car?
-I would like to ride a bike - Thanh
+Ride a bike  __Igor__
 ## what is your favorite dish? (list the main ingredients)
+Salsa del pomodoro *(garlick, olive oil, tomatoes, basilicum)*   __Igor__
+## What is your favorite color?
+Green  __Igor__
+## What is your fav. videogame?
+Atari Frogger  __Igor__
+## Does it bother you to be confronted with unexpected situations?
+Not at all, this is a challenge ;-)  __Igor__
+## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
+Sleep if i can choose :-)  __Igor__
+## How would your friends describe you?
+Huuh i must ask them..  __Igor__
+## What is the best gift you have been given?
+My daughter !  __Igor__
+## What is the worst gift you have received?
+There are no bad gifts..only wrongly chosen...  __Igor__
+## If you were a super-hero, what powers would you have?
+Learn people how to become better and better  __Igor__
+## What's the most unusual thing you've ever eaten?
+Ants? maybe :-)  __Igor__
+## Is your glass half full or half empty?
+ALWAYS half full..__Igor__
+## If you had a warning label, what would yours say?
+*You are social and outgoing - a true people person. You love being the life of any party you walk into. However, your love of being social means that you may slightly tweak your personality to fit into different crowds. Your warning label would warn others about this!*      __Igor__
+
+
+
+My favorite holiday destination is Uyuni Salt Flat - Thanh
+
+My dreamjob would be Moderator - Thanh
+
+When the kids don't listen to me - Thanh
+
+Ho Chi Minh - Thanh
+
+I would like to live in Autstralia - Thanh
+
+When I was small - I would like to be a teacher - Thanh
+
+I would like to ride a bike - Thanh
+
 My favorite dish is Pho with ingredients : 
 - White noodle.
 - Beef or chicken.
 - Some vegetables. \
 Thanh
-## What is your favorite color?
+
 My favorite color is white - Thanh
-## What is your fav. videogame?
+
 My fav. videogame is Mario Galaxy - Thanh 
-## Does it bother you to be confronted with unexpected situations?
+
 That would be bother me - Thanh
-## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
+
 I would like to play some small game on Mobi and watch some game shows on TV or reading a book - Thanh
-## How would your friends describe you?
+
 My friend could describe me that I am too simple - Thanh
-## What is the best gift you have been given?
+
 A box of Musik CD on Xmas - Thanh
-## What is the worst gift you have received?
+
 A Cactus - Thanh
-## If you were a super-hero, what powers would you have?
+
 The Reading mind that I would like to have if I were a super-hero - Thanh
-## What's the most unusual thing you've ever eaten?
+
 The most unusual thing that I've eaten is Crocodile meat - Thanh
-## Is your glass half full or half empty?
+
 My glass of coffee is nearly full - Thanh
-## If you had a warning label, what would yours say?
+
 I would say "Don't be angry" - Thanh
-## What is your favorite holiday destination? 
+
 Argentina - Saray
-## What should your dreamjob be like?
+
 Programmer - Saray
-## What really makes you angry?
+
 to be hungry - Saray
-## Who is your hero?
+
 Albert Einstein - Saray
-## If you could live anywhere, where would it be?
+
 In Berlin - Saray
-## What did you want to be when you were small?
+
 English Teacher - Saray
-## Would you rather ride a bike, ride a horse, or drive a car?
+
 Ride a car - Saray
-## what is your favorite dish? (list the main ingredients)
+
 Pancakes - Saray
-## What is your favorite color?
+
 Blue - Saray
-## What is your fav. videogame?
+
 Crash bandicoot - Saray
-## Does it bother you to be confronted with unexpected situations?
+
 it depends in which situation - Saray
-## In the evening, would you rather play a game, visit a friend, watch a movie, or read? 
+
 all of them - Saray
-## How would your friends describe you?
+
 Generous - Saray
-## What is the best gift you have been given?
+
 The people around me - Saray
-## What is the worst gift you have received?
+
 If it is a gift it cannot be bad, the intention is always what matters - Saray
-## If you were a super-hero, what powers would you have?
+
 Teletransportation - Saray
-## What's the most unusual thing you've ever eaten?
+
 I do not like to eat unusual things, but when I was a baby my mum use to give me brains of chicken because they were healthy - Saray
-## Is your glass half full or half empty?
+
 half full to full, I am lazy - Saray
-## If you had a warning label, what would yours say?
+
 
