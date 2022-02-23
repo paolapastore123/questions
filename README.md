@@ -14,6 +14,9 @@ and push your changes to github.
 *The job that I am satisfied both materially and mentally.*
 
 ## What really makes you angry?
+
+*Disrespect and lying*
+
 ## Who is your hero?
 ## If you could live anywhere, where would it be?
 ## What did you want to be when you were small?
