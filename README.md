@@ -28,7 +28,7 @@ Crash bandicoot - Saray
 ## Does it bother you to be confronted with unexpected situations?
 it depends in which situation - Saray
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read? 
-all of them, we have 7 evenings a week - Saray
+all of them - Saray
 ## How would your friends describe you?
 Generous - Saray
 ## What is the best gift you have been given?
