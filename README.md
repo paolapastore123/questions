@@ -74,4 +74,7 @@ and push your changes to github.
 *Escargot*
 
 ## Is your glass half full or half empty?
+
+*Both of them*
+
 ## If you had a warning label, what would yours say?
