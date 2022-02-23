@@ -3,7 +3,7 @@ add your name to the end of each answer \
 (eg. my fav holiday destination is Egypt - Paola)\
 and push your changes to github.
 
-# Questions
+# Question
 
 ## What is your favorite holiday destination? Turkey - Yasin
 ## What should your dreamjob be like? Freelance - Yasin
