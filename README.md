@@ -50,6 +50,9 @@ and push your changes to github.
 *It depends on the situation but generally yes*
 
 ## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
+
+*Watch a movie or visit a friend*
+
 ## How would your friends describe you?
 ## What is the best gift you have been given?
 ## What is the worst gift you have received?
