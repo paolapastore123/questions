@@ -6,40 +6,40 @@ and push your changes to github.
 # Questions
 
 ## What is your favorite holiday destination? 
-Argentina - Saray
+Tirol - Jason
 ## What should your dreamjob be like?
-Programmer - Saray
+engaging---and well paid - Jason
 ## What really makes you angry?
-to be hungry - Saray
+defiant daughter! - Jason
 ## Who is your hero?
-Albert Einstein - Saray
+don't have one - Jason
 ## If you could live anywhere, where would it be?
-In Berlin - Saray
+Alps - Jason
 ## What did you want to be when you were small?
-English Teacher - Saray
+big - Jason
 ## Would you rather ride a bike, ride a horse, or drive a car?
-Ride a car - Saray
+a car with a bike rack and horse trailer - Jason
 ## what is your favorite dish? (list the main ingredients)
-Pancakes - Saray
+Schnitzel - veal, flour, egg, breadcrumbs, oil - Jason
 ## What is your favorite color?
-Blue - Saray
+orange - Jason
 ## What is your fav. videogame?
-Crash bandicoot - Saray
+tetris - Jason
 ## Does it bother you to be confronted with unexpected situations?
-it depends in which situation - Saray
-## In the evening, would you rather play a game, visit a friend, watch a movie, or read? 
-all of them, we have 7 evenings a week - Saray
+depends - Jason
+## In the evening, would you rather play a game, visit a friend, watch a movie, or read?
+watch a movie - Jason
 ## How would your friends describe you?
-Generous - Saray
+quiet - Jason
 ## What is the best gift you have been given?
-The people around me - Saray
+cash - Jason
 ## What is the worst gift you have received?
-If it is a gift it cannot be bad, the intention is always what matters - Saray
-## If you were a super-hero, what powers would you have?
-Teletransportation - Saray
+losing lotto ticket - Jason
+## If you were a super-hero, what powers would you have? 
+flying - Jason
 ## What's the most unusual thing you've ever eaten?
-I do not like to eat unusual things, but when I was a baby my mum use to give me brains of chicken because they were healthy - Saray
-## Is your glass half full or half empty?
-half full to full, I am lazy - Saray
+mud - Jason
+## Is your glass half full or half empty? 
+full - Jason
 ## If you had a warning label, what would yours say?
-Hormone pump - Saray
+watch for ice - Jason
